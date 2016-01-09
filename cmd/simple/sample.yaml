@@ -1,9 +1,0 @@
-dockers:
-  - tcp://gpx.so:4244
-  - tcp://dell.gpx.so:4244
-  - tcp://10.1.0.11:4244
-  - tcp://10.1.0.12:4244
-k8api: 10.1.0.11:8080
-modules:
-  - name: zgquant-backtest-test-24h-
-    min: 1
